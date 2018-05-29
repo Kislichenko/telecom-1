@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  26 MAY 2018 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.19)  29 MAY 2018 18:45
 entering extended mode
-**./labs_8.tex
-(labs_8.tex
+**./lab_1_2.tex
+(lab_1_2.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 
@@ -797,13 +797,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks26
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (labs_8.aux
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 4.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
-\openout1 = `labs_8.aux'.
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+No file lab_1_2.aux.
+\openout1 = `lab_1_2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -818,6 +814,10 @@ LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 15.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 15.
+("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 LaTeX Font Info:    ... okay on input line 15.
 
 (C:\Users\Professional\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
@@ -917,90 +917,185 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \ML=\skip60
-LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 39.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+LaTeX Font Info:    Try loading font information for U+msb on input line 39.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
 
 [1
 
 {C:/Users/Professional/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T2A+cmss on input line 61.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 62.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\cyrillic\t2acmss.fd"
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-[2]
-<images/part1.png, id=10, 956.82469pt x 386.19281pt>
-File: images/part1.png Graphic file (type png)
-<use images/part1.png>
-Package pdftex.def Info: images/part1.png  used on input line 93.
-(pdftex.def)             Requested size: 448.12788pt x 180.8742pt.
-<images/part2.png, id=12, 633.86812pt x 284.56313pt>
-File: images/part2.png Graphic file (type png)
-<use images/part2.png>
-Package pdftex.def Info: images/part2.png  used on input line 100.
-(pdftex.def)             Requested size: 448.12788pt x 201.18149pt.
-<images/part3.png, id=13, 956.82469pt x 383.93437pt>
-File: images/part3.png Graphic file (type png)
-<use images/part3.png>
-Package pdftex.def Info: images/part3.png  used on input line 107.
-(pdftex.def)             Requested size: 448.12788pt x 179.81647pt.
-<images/part4.png, id=14, 950.04938pt x 367.3725pt>
-File: images/part4.png Graphic file (type png)
-<use images/part4.png>
-Package pdftex.def Info: images/part4.png  used on input line 114.
-(pdftex.def)             Requested size: 448.12788pt x 173.28731pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+<images/teoria_pryam_signal.png, id=6, 365.11406pt x 141.52875pt>
+File: images/teoria_pryam_signal.png Graphic file (type png)
+<use images/teoria_pryam_signal.png>
+Package pdftex.def Info: images/teoria_pryam_signal.png  used on input line 94.
+
+(pdftex.def)             Requested size: 298.75697pt x 115.81244pt.
+[2 <./images/teoria_pryam_signal.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+[3]
+<images/sin_signal1.png, id=24, 341.77687pt x 422.32782pt>
+File: images/sin_signal1.png Graphic file (type png)
+<use images/sin_signal1.png>
+Package pdftex.def Info: images/sin_signal1.png  used on input line 154.
+(pdftex.def)             Requested size: 448.12788pt x 553.78192pt.
+<images/sin_signal2.png, id=25, 332.74312pt x 293.59688pt>
+File: images/sin_signal2.png Graphic file (type png)
+<use images/sin_signal2.png>
+Package pdftex.def Info: images/sin_signal2.png  used on input line 160.
+(pdftex.def)             Requested size: 448.12788pt x 395.43372pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/part5.png, id=15, 959.83594pt x 163.3603pt>
-File: images/part5.png Graphic file (type png)
-<use images/part5.png>
-Package pdftex.def Info: images/part5.png  used on input line 121.
-(pdftex.def)             Requested size: 448.12788pt x 76.27084pt.
+<images/sin_out.png, id=26, 919.18407pt x 561.59813pt>
+File: images/sin_out.png Graphic file (type png)
+<use images/sin_out.png>
+Package pdftex.def Info: images/sin_out.png  used on input line 166.
+(pdftex.def)             Requested size: 448.12788pt x 273.79726pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3
+[4 <./images/sin_signal1.png>]
 
- <./images/part1.png> <./images/part2.png> <./images/part3.png>] [4 <./images/p
-art4.png> <./images/part5.png>] [5
+LaTeX Warning: Text page 5 contains only floats.
 
-] (labs_8.aux) ) 
+
+Overfull \vbox (3.24245pt too high) has occurred while \output is active []
+
+
+[5 <./images/sin_signal2.png> <./images/sin_out.png>]
+<images/square_signal1.png, id=37, 267.24844pt x 417.05812pt>
+File: images/square_signal1.png Graphic file (type png)
+<use images/square_signal1.png>
+Package pdftex.def Info: images/square_signal1.png  used on input line 173.
+(pdftex.def)             Requested size: 448.12788pt x 699.40556pt.
+ [6 <./images/square_signal1.png>]
+<images/square_signal2.png, id=42, 261.22594pt x 271.0125pt>
+File: images/square_signal2.png Graphic file (type png)
+<use images/square_signal2.png>
+Package pdftex.def Info: images/square_signal2.png  used on input line 181.
+(pdftex.def)             Requested size: 448.12788pt x 464.92488pt.
+<images/square_out.png, id=43, 924.45375pt x 554.07pt>
+File: images/square_out.png Graphic file (type png)
+<use images/square_out.png>
+Package pdftex.def Info: images/square_out.png  used on input line 187.
+(pdftex.def)             Requested size: 448.12788pt x 268.58835pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./images/square_signal2.png>]
+<images/simulink_sin.png, id=49, 237.13594pt x 141.52875pt>
+File: images/simulink_sin.png Graphic file (type png)
+<use images/simulink_sin.png>
+Package pdftex.def Info: images/simulink_sin.png  used on input line 197.
+(pdftex.def)             Requested size: 448.12788pt x 267.46481pt.
+<images/sin_sim.png, id=50, 417.81094pt x 295.85532pt>
+File: images/sin_sim.png Graphic file (type png)
+<use images/sin_sim.png>
+Package pdftex.def Info: images/sin_sim.png  used on input line 203.
+(pdftex.def)             Requested size: 448.12788pt x 317.34303pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/sin_sp_sim.png, id=51, 596.98032pt x 319.1925pt>
+File: images/sin_sp_sim.png Graphic file (type png)
+<use images/sin_sp_sim.png>
+Package pdftex.def Info: images/sin_sp_sim.png  used on input line 209.
+(pdftex.def)             Requested size: 448.12788pt x 239.60808pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./images/square_out.png> <./images/simulink_sin.png>] [9 <./images/sin_sim.
+png> <./images/sin_sp_sim.png>]
+<images/square1-1600-800-0-00d1simulink.jpg, id=62, 562.1pt x 397.485pt>
+File: images/square1-1600-800-0-00d1simulink.jpg Graphic file (type jpg)
+<use images/square1-1600-800-0-00d1simulink.jpg>
+Package pdftex.def Info: images/square1-1600-800-0-00d1simulink.jpg  used on in
+put line 221.
+(pdftex.def)             Requested size: 448.12788pt x 316.89064pt.
+<images/square1-1600-800-0-00d1simulink_sp.jpg, id=63, 803.0pt x 461.725pt>
+File: images/square1-1600-800-0-00d1simulink_sp.jpg Graphic file (type jpg)
+<use images/square1-1600-800-0-00d1simulink_sp.jpg>
+Package pdftex.def Info: images/square1-1600-800-0-00d1simulink_sp.jpg  used on
+ input line 227.
+(pdftex.def)             Requested size: 448.12788pt x 257.67653pt.
+ [10
+
+ <./images/square1-1600-800-0-00d1simulink.jpg> <./images/square1-1600-800-0-00
+d1simulink_sp.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
+
+ []
+
+[11
+
+] (lab_1_2.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 6690 strings out of 493305
- 102597 string characters out of 3138853
- 268193 words of memory out of 3000000
- 10116 multiletter control sequences out of 15000+200000
- 11552 words of font info for 36 fonts, out of 3000000 for 9000
+ 6726 strings out of 493305
+ 103827 string characters out of 3138853
+ 267121 words of memory out of 3000000
+ 10144 multiletter control sequences out of 15000+200000
+ 13197 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,6n,51p,9114b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Professional\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
-r\lh\lh-t2a\dpi600\lasx1728.pk> <C:\Users\Professional\AppData\Local\MiKTeX\2.9
-\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk>
-Output written on labs_8.pdf (5 pages, 138434 bytes).
+ 51i,7n,51p,9115b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Professional\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dp
+i600\lasx1440.pk> <C:\Users\Professional\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\Professional\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lasx1728.pk> <C:\Users\Professional\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+>
+Output written on lab_1_2.pdf (11 pages, 687810 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
+ 302 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
